@@ -1,14 +1,14 @@
 {
-  "name": "xstore",
+  "name": "TecStore",
   "version": "1.0.0",
-  "description": "Xstore Backend",
+  "description": "Tecstore Backend",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "Jordan Higuera Higuera",
+  "author": "Josue Manuel Jacinto Almaguer",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
