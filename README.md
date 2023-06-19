@@ -1,4 +1,4 @@
 # TecStore
 Backend Proyecto Ing. De Software
 
-API para APP React de Xstore
+API para APP React de TecStore
